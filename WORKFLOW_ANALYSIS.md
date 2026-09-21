@@ -7,7 +7,7 @@ The workflow runs when code is pushed to the main branch which is the convention
 - Checkout code 
 - Validate HTML
 - Check links
-- Upload artifact 
+- Upload artifact
 
 *if those succeed, the deploy job performs deploy to Github Pages.*
 
